@@ -1,1 +1,2 @@
-# MachineLearningSampleProject
+# Machine Learning Sample Project
+
